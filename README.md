@@ -5,7 +5,7 @@
 
 By:
 
-* Asrar Homod - AI expert
+* Asrar Homod (@AsrarH)- AI expert
 * Asmaa Alrefae - AI expert
 * Jood BinLadin -  Artist
 
